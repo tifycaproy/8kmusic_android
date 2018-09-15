@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exit_confirm_text">¿Estás seguro de querer salir?</string>
+    <string name="txt_btn_cancel">No</string>
+    <string name="txt_btn_accept">Sí</string>
+</resources>
